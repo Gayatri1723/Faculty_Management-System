@@ -1,4 +1,4 @@
-# Faculty_Management-System
+# Faculty Management System
 This project is intended for eductaional purpose only.
 
 ## To run this project
